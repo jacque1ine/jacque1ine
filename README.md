@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @jacque1ine
-- 👀 I’m interested in web-development and AI
-- 💞️ I’m looking to collaborate on any cool project ideas;)
-- 📫 How to reach me: email - fungjsl@gmail.com or linkedin - https://www.linkedin.com/in/jacquelinesfung/
+Hi, I'm Jacqueline! 👋
 
-<!---
-jacque1ine/jacque1ine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Systems Design Engineering Student and Software Developer 😊
+
+- Interested in full stack web development, machine learning, and data 🌐🤖📊
+- Currently working as a Software Developer for UW Blueprint, building software for non-profits! 💻🏢
+- Previously a Software Engineer at RBC 💼
+- Previously a QA Engineer at Tieit.AI 🚀
+
+🔍 Seeking Fall 2023 internships
+
+Check out my portfolio here: [jacquelinefung.live](https://www.jacquelinefung.live/) 🌟
