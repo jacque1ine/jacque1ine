@@ -4,8 +4,7 @@ I'm a Systems Design Engineering Student at the University of Waterloo and Softw
 
 - Interested in full stack web development, machine learning, and data 🌐🤖📊
 - Currently working as a Software Developer for UW Blueprint, building software for non-profits! 💻🏢
-- Previously a Software Engineer at RBC 💼
-- Previously a QA Engineer at Tieit.AI 🚀
+- Prev @ RBC 💼, Tieit.AI 🚀
 
 🔍 Seeking Fall 2023 internships
 
