@@ -1,6 +1,6 @@
 Hi, I'm Jacqueline! 👋
 
-I'm a Systems Design Engineering Student and Software Developer 😊
+I'm a Systems Design Engineering Student at the University of Waterloo and Software Developer 😊
 
 - Interested in full stack web development, machine learning, and data 🌐🤖📊
 - Currently working as a Software Developer for UW Blueprint, building software for non-profits! 💻🏢
