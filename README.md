@@ -1,6 +1,6 @@
 Hi, I'm Jacqueline! 👋
 
-I'm a Systems Design Engineering Student at the University of Waterloo and currently working at PointClickCare as a Sofware Engineering Intern:) I am also working with UW Blueprint to build tech for social good:)
+I'm a Systems Design Engineering Student at the University of Waterloo and currently working at PointClickCare as a Sofware Engineering Intern! I am also working with UW Blueprint to build tech for social good:)
 
 - Interested in full stack web development, machine learning, and data 🌐🤖📊
 - Currently learning Python and Spring MVC🌱
