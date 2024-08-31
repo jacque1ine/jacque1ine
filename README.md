@@ -8,4 +8,4 @@ I am also currently working with UW Blueprint to build tech for social good:)
 - Currently learning Django and Kubernetes🌱
 - Prev @ RBC 💼, Tieit.AI 🚀, PointClickCare🩺
 
-_Seeking Winter 2025 Internships_
+_Seeking 2025 Internships_
