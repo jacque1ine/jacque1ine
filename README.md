@@ -10,7 +10,7 @@ A **product-focused engineer** obsessed with turning problems into products peop
 ### what i currently do
 At Ramp, I work directly with customers to scope, design, and build — then ship and iterate live. I like owning the whole arc: understand the problem → design the solution → get it in people's hands.
 
-- ✈️ Led Ramp's **AI Travel Agent** end to end (PM + design + eng) → shipped to GA
+- ✈️ Led Ramp's **AI Travel Agent** end to end from 0 to 1 → shipped to 100% GA
 - 🛠️ Shipped features for enterprise customers (a major brokerage & a global hedge fund) — scoping, building, and shipping live
 
  ### what i've done 
