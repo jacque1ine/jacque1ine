@@ -8,10 +8,10 @@ A **product-focused engineer** obsessed with turning problems into products peop
 
 
 ### what i currently do
-At Ramp, I work directly with customers to scope, design, and build — then ship and iterate live. I like owning the whole arc: understand the problem → design the solution → get it in people's hands.
+At Ramp, I work directly with customers to scope, design, and build then ship and iterate live. I like owning the whole arc: understand the problem → design the solution → get it in people's hands.
 
 - ✈️ Led Ramp's **AI Travel Agent** end to end from 0 to 1 → shipped to 100% GA
-- 🛠️ Shipped features for enterprise customers (a major brokerage & a global hedge fund) — scoping, building, and shipping live
+- 🛠️ Worked directly with and shipped features for enterprise customers (a major brokerage & a global hedge fund) 
 
  ### what i've done 
 - 🌍 **Open source** — contributed to **Apache Pulsar** & **Numaflow**, and built a Numaflow ↔ Pulsar connector
