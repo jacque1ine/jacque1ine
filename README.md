@@ -2,7 +2,7 @@
 
 A **product-focused engineer** obsessed with turning problems into products people actually use and shipping them fast. Currently @ **Ramp** as Software Engineer on the Forward Deployed Engineering Team 🚀
 
-- Systems Design Engineering @ **Waterloo**, grad **May 2027**
+- Systems Design Engineering @ **University of Waterloo**, grad **May 2027**
 - Prev @ Microsoft Azure, Intuit, Carta, PointClickCare and RBC
 - 🔎 Open to **New Grad SWE roles (2027)**
 
