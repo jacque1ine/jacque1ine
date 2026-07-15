@@ -19,10 +19,11 @@ at ramp, i work directly with customers to scope, build, ship, and iterate on pr
 - 🌍 contributed to **apache pulsar** and **numaflow**, including building a numaflow ↔ pulsar connector
 - 💙 led a project with blueprint to build technology for social good
 - 🎪 helped organize **hack the north** and built the backend for an event-wide store and game used by 1,000+ attendees
-- 🔨 somehow managed to win awards at a few hackathons too :) → https://devpost.com/jacque1ine
+- 🔨 did some hackathons and won some awards too :) → https://devpost.com/jacque1ine
 
 ### outside of coding
 
-i'm usually exploring new ai tools, trying a new coffee shop, planning my next trip, taking photos, hiking, or finding good food.
+i'm usually exploring planning my next trip, taking photos, hiking, or finding good food.
 
-🌐 **linkedin:** https://linkedin.com/in/jacque1ine
+ **linkedin:** https://linkedin.com/in/jacque1ine
+ **website** https://jacque1ine.github.io
