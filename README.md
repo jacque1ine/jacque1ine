@@ -4,7 +4,7 @@ i'm a product-focused software engineer who loves building things that people ac
 
 - systems design engineering @ **university of waterloo**, graduating **may 2027** 🎓
 - prev. @ **microsoft azure**, **intuit**, **carta**, **pointclickcare**, and **rbc**
-- 🔎 looking for **new grad software engineering roles (2027)**🔎 
+- 🔎 looking for **new grad software engineering roles (2027)** 🔎 
 
 ### what i'm working on
 
